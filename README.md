@@ -1,4 +1,4 @@
-# sd-Spring-Boot-Rest-With-Swagger
+# Spring-Boot-Rest-With-Swagger2
 Creating a Spring Boot Application With Swqagger
 
 ```
