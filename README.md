@@ -1,5 +1,5 @@
-# Spring-Boot-Rest-With-Swagger2
-Creating a Spring Boot Application With Swqagger
+# Spring-Boot-Rest-With-Swagger2-Basic-Version
+Creating a Spring Boot Application With Swagger
 
 ```
   Step 1 : Go to start.spring.io
